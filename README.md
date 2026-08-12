@@ -4,7 +4,7 @@ I'm a self-taught data analyst now learning to build impactful projects in Excel
 
 ## Tools I work with
 1. Microsoft Excel.
-2. Microsoft SQL Server.
+2. SQL Server.
 3. Power BI.
 4. OpenLCA.
 
