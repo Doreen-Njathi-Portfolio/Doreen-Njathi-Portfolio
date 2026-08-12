@@ -1,6 +1,6 @@
 ## Hello, I'm Doreen!
 
-I'm a self-taught data analyst with a background in sustainability and geology. I am now building impactful projects in Excel, SQL and Power BI. 
+I'm a self-taught data analyst now learning to build impactful projects in Excel, SQL and Power BI. My career started as a borehole geologist analyzing Olkaria's geothermal reservoir for electricity generation. I later pivoted into sustainability; I hold a MSc in Environment and Natural Resources.
 
 ## Tools I work with
 1. Microsoft Excel.
